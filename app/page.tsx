@@ -96,7 +96,7 @@ export default function LandingPage() {
             href="#oferta"
             className="bg-orange-500 hover:bg-orange-400 text-white font-bold px-8 py-4 rounded-xl text-lg transition-colors"
           >
-            Quero o 1PB Squad por R\$147 →
+            Quero o 1PB Squad por R$147 →
           </a>
           <Link
             href="/selector"
@@ -247,7 +247,7 @@ export default function LandingPage() {
               <div className="flex items-center justify-between mb-6">
                 <span className="font-black text-xl text-white">Oferta de lançamento</span>
                 <div className="text-right">
-                  <p className="font-black text-3xl text-orange-400">R\$147</p>
+                  <p className="font-black text-3xl text-orange-400">R$147</p>
                   <p className="text-xs text-white/40">pagamento único</p>
                 </div>
               </div>
@@ -258,7 +258,7 @@ export default function LandingPage() {
                 rel="noopener noreferrer"
                 className="block w-full bg-orange-500 hover:bg-orange-400 text-white font-bold py-4 rounded-xl text-center text-lg transition-colors"
               >
-                Quero o 1PB Squad por R\$147 →
+                Quero o 1PB Squad por R$147 →
               </a>
               <p className="text-center text-orange-400/70 text-sm mt-3 font-medium">150 especialistas por menos de R$1 cada.</p>
               <p className="text-center text-white/30 text-xs mt-1">Garantia de 30 dias • Acesso imediato • Pagamento seguro</p>
@@ -306,7 +306,7 @@ export default function LandingPage() {
             ganha de quem trabalha sozinho.
           </h2>
           <p className="text-white/50 text-lg mb-10">
-            Sempre foi assim. A diferença agora é que o time custa R\$147.
+            Sempre foi assim. A diferença agora é que o time custa R$147.
           </p>
           <a
             href="https://hotmart.com"
@@ -314,7 +314,7 @@ export default function LandingPage() {
             rel="noopener noreferrer"
             className="inline-block bg-orange-500 hover:bg-orange-400 text-white font-bold px-10 py-5 rounded-xl text-xl transition-colors"
           >
-            Quero o 1PB Squad por R\$147 →
+            Quero o 1PB Squad por R$147 →
           </a>
           <p className="text-white/30 text-sm mt-4">Garantia de 30 dias • Acesso vitalício • 150 agentes</p>
         </div>
