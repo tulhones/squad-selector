@@ -253,7 +253,7 @@ export default function LandingPage() {
               </div>
 
               <a
-                href="https://hotmart.com"
+                href="https://pay.hotmart.com/M105247592Q"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block w-full bg-orange-500 hover:bg-orange-400 text-white font-bold py-4 rounded-xl text-center text-lg transition-colors"
@@ -309,7 +309,7 @@ export default function LandingPage() {
             Sempre foi assim. A diferença agora é que o time custa R$147.
           </p>
           <a
-            href="https://hotmart.com"
+            href="https://pay.hotmart.com/M105247592Q"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-orange-500 hover:bg-orange-400 text-white font-bold px-10 py-5 rounded-xl text-xl transition-colors"
